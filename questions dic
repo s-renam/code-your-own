@@ -9,3 +9,5 @@ trivia_questions = {
 
 for question in trivia_questions:
     print(question)
+    print("word")
+    
